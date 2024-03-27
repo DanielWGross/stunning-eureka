@@ -9,8 +9,8 @@
 
 ## Install & Configure Deps. - 7:03PM - ?
 
-- Prettier
-- ESLint
+- ✅ Prettier
+- ✅ ESLint
 - Nodemon
 - Handlebars
 - Sequelize & MySQL
