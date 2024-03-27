@@ -11,12 +11,13 @@
 
 - ✅ Prettier
 - ✅ ESLint
-- Nodemon
-- Handlebars
+- ✅ Nodemon
+- ✅ Handlebars
 - Sequelize & MySQL
 - connect-sequelize-session
 - bcrypt
 - dotenv
+- Configure MVC (if not already done)
 - Make sure it works on Heroku
 
 ## Add our first feature (vertical slice)
