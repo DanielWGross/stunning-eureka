@@ -2,6 +2,10 @@
   "name": "stunning-eureka",
   "version": "1.0.0",
   "description": "Example Project",
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
