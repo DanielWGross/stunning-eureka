@@ -16,9 +16,10 @@
 - ✅ Sequelize & MySQL - Start - 7:25PM(ish) - 7:42PM
   - dotenv
 - ✅ Add JawsDB & Configure cloud DB - 7:42PM - 7:46PM
-- Configure MVC (if not already done) - 7:46PM -
+- ✅ Configure MVC (if not already done) - 7:46PM - 7:55PM
 - connect-sequelize-session
 - bcrypt
+- Seed file & how to seed local and remote DBs
 - Make sure it works on Heroku
 
 ## Add our first feature (vertical slice)
