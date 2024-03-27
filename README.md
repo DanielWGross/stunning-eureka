@@ -13,10 +13,10 @@
 - ✅ ESLint
 - ✅ Nodemon
 - ✅ Handlebars
-- Sequelize & MySQL
+- Sequelize & MySQL - Start - 7:25PM(ish)
+  - dotenv
 - connect-sequelize-session
 - bcrypt
-- dotenv
 - Configure MVC (if not already done)
 - Make sure it works on Heroku
 
