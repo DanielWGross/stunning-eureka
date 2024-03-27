@@ -13,8 +13,9 @@
 - ✅ ESLint
 - ✅ Nodemon
 - ✅ Handlebars
-- Sequelize & MySQL - Start - 7:25PM(ish)
+- ✅ Sequelize & MySQL - Start - 7:25PM(ish) - 7:42PM
   - dotenv
+- Add JawsDB & Configure cloud DB - 7:42PM
 - connect-sequelize-session
 - bcrypt
 - Configure MVC (if not already done)
