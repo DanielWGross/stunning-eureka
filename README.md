@@ -20,8 +20,9 @@
 
 ## Day 2 - 6:49PM - ?
 
-- Database Associations - 6:51PM - 6:57PM
-- Seed file & how to seed local and remote DBs - 6:57PM
+- ✅ Database Associations - 6:51PM - 6:57PM
+- ✅ Seed file & how to seed local and remote DBs - 6:57PM - 7:17PM
+- Seed script
 - connect-sequelize-session
 - bcrypt
 - Middleware
