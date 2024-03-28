@@ -8,7 +8,9 @@ const userSeeds = require('./userSeeds');
   await sequelize.sync({ force: true });
 
   console.log('🌱: 👶 Creating Users From Seeds 👶');
-  const userData = await User.bulkCreate(userSeeds);
+  const userData = await User.bulkCreate(userSeeds, {
+    individualHooks: true,
+  });
 
   console.log('🌱: 📗 Creating Books From Seeds 📗');
   for (const book of bookSeeds) {
