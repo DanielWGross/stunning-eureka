@@ -1,3 +1,7 @@
 const User = require('./User');
+const Book = require('./Book');
 
-module.exports = { User };
+User.hasMany(Book);
+Book.belongsTo(User);
+
+module.exports = { Book, User };

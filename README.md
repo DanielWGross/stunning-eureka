@@ -17,11 +17,14 @@
   - dotenv
 - ✅ Add JawsDB & Configure cloud DB - 7:42PM - 7:46PM
 - ✅ Configure MVC (if not already done) - 7:46PM - 7:55PM
+
+## Day 2 - 6:49PM - ?
+
+- Database Associations - 6:51PM
+- Seed file & how to seed local and remote DBs
 - connect-sequelize-session
 - bcrypt
-- Seed file & how to seed local and remote DBs
-- Make sure it works on Heroku
+- Middleware
 
-## Add our first feature (vertical slice)
-
-- TBD
+- Login Page?
+- Dashboard/Home Page?
