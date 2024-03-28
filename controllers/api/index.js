@@ -3,7 +3,7 @@ const { Book, User } = require('../../models');
 
 /** GET Requests to /api/users */
 router.get('/users', async (req, res) => {
-  const userData = await User.findAll({});
+  const userData = await User.findAll({ include: Book });
   return res.json(userData);
 });
 
@@ -15,7 +15,7 @@ router.post('/users', async (req, res) => {
 
 /** GET Requests to /api/books */
 router.get('/books', async (req, res) => {
-  const userData = await Book.findAll({});
+  const userData = await Book.findAll({ include: User });
   return res.json(userData);
 });
 
