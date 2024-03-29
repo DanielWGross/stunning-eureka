@@ -24,7 +24,7 @@
 - ✅ Seed file & how to seed local and remote DBs - 6:57PM - 7:17PM
 - ✅ Seed script - 7:17 - 7:25PM
 
-- Handle user sessions & authentication - 7:25PM - ?
+- Handle user sessions & authentication - 7:25PM - 7:39PM
 
   - ✅ Install some new deps.
     - connect-sequelize-session
@@ -33,11 +33,11 @@
   - ✅ Configure & Use bcrypt
   - ✅ Update our user model to include a password
 
-- Login Page
+- Login Page - 7:39PM - ?
+  - add a login route - 7:39 - 8:01
+  - add a sign-up route
   - configure and use connect-session-sequlize
   - configure and use express-session
-  - add a login route
-  - add a sign-up route
   - persist a user sessions
   - Setup some middleware
 - Dashboard/Home Page?
